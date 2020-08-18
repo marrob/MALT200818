@@ -1,0 +1,5 @@
+1. LabView 2018
+NICAN 18.0.3072
+NIXNET 19.0
+Phi6.zip
+SETUP-PHI63...3.3-Complete-build005.
